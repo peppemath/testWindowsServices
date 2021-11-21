@@ -1,0 +1,7 @@
+﻿Creare un servizio Windows usandoBackgroundService
+https://docs.microsoft.com/it-it/dotnet/core/extensions/windows-service
+
+
+
+Creating a Windows Service with .NET Core 3.0
+https://csharp.christiannagel.com/2019/10/15/windowsservice/

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Workspace_progetti\WINDOWS-SERVICES\WorkerService1\WebApplication1\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-08-31T17:15:06.7579948Z;True|2021-08-31T19:13:28.7696858+02:00;</History>
+  </PropertyGroup>
+</Project>
